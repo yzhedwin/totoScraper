@@ -1,0 +1,4 @@
+**/node_modules
+**/compilation
+
+scraper/package-lock.json
